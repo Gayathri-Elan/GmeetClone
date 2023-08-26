@@ -4,7 +4,6 @@ Developed the clone of popular video-conferencing app by Google - GMeet
 
 ## Features
 
-- Video conferencing - Users can organize meets as well as existing meet with an unique meet ID.
-- User authentication
-- Real-time chat feature
-- Collaborative and interactive whiteboard available to users during a meet.
+- Developed SyncSphere, an emulation of Google's renowend video-conferencing app, Google Meet
+- Users can organize meets as well as join existing meets via an unique meet ID.
+- Implemented robust user authentication, a real-time chat feature and a collaborative and interactive whiteboard using technologies such as WebRTC, Socket.io, and Node.js
